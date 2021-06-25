@@ -1,23 +1,32 @@
-
-// server side
-node
-express
-dotenv
-nodemon
-morgan
-express.json(built in middleware)
-npm i pg
-npm install cors
-
-
-// client side
-npm install create-react-app -g //giving access to create react app
-
-create react app .
-npm i bootstrap
-npm install --save @fortawesome/fontawesome-free
-npm i react-router-dom
-npm install axios
-
+# Yelp Site with Pern Stack
 
 Yelp Site made with pern Stack where i learn to use Postgres, Express , Node js with React
+
+## Technologies Used
+
+## Server Side 
+- Node js,
+- Express.js,
+- nodemon,
+- Postgres SQL,
+- morgan,
+- express.json(built in middleware)
+
+## Client Side 
+- React,
+- Bootstrap,
+- JSX,
+- Fontawesome Icons
+- axios
+
+**Project Images**
+
+ <img src='projectImages/img1.PNG' alt="Main page">
+ <img src='projectImages/img2.PNG' alt="Edit Details page">
+ <img src='projectImages/img3.PNG' alt="Add Reviews page">
+
+
+
+
+
+
